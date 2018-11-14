@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12428,8 +12428,8 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       <tuv lang="ZH-CN">
         <seg>第九章 发财大计</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Jeremy" changedate="20180815T130644Z" creationid="USER" creationdate="20180809T122320Z">
-        <seg>Chapter 9: The Grand Scheme to Get Rich</seg>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20181114T170037Z" creationid="USER" creationdate="20180809T122320Z">
+        <seg>Chapter 9: The Grand Scheme to Get Rich!</seg>
       </tuv>
     </tu>
     <tu>
