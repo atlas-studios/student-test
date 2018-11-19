@@ -1003,3 +1003,4 @@
 丹房	Elixir Room
 炼丹房	alchemy lab
 镇西王	Western Garrison Liege Lord
+动静	commotion
