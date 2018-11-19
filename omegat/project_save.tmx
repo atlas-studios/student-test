@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180815T133959Z" creationid="Jeremy" creationdate="20180815T133959Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>Congratulations and welcome! You have successfully set up OmegaT for the workshop! Below, you'll find some sample chapters of a Chinese webnovel. Feel free to test out the CAT tool.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="jingh" changedate="20181119T021504Z" creationid="jingh" creationdate="20181119T021504Z">
+        <seg>Hello</seg>
       </tuv>
     </tu>
     <tu>
@@ -6450,8 +6458,8 @@ with the time that the elixir medical efficacy lasted also having extended up to
       <tuv lang="ZH-CN">
         <seg>天界，天庭。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="JH" changedate="20181115T074315Z" creationid="cktal" creationdate="20180802T015516Z">
-        <seg>Heavenly Realm, Heavenly Court.</seg>
+      <tuv lang="EN-US" changeid="jingh" changedate="20181119T021456Z" creationid="cktal" creationdate="20180802T015516Z">
+        <seg>Sky Realm, Heavenly Court.</seg>
       </tuv>
     </tu>
     <tu>
